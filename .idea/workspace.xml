@@ -380,19 +380,41 @@
       <created>1519303708679</created>
       <option name="number" value="Default" />
       <updated>1519303708679</updated>
+<<<<<<< HEAD
       <workItem from="1519303710260" duration="1266000" />
       <workItem from="1521159940959" duration="90000" />
       <workItem from="1521160204380" duration="1391000" />
+=======
+<<<<<<< Updated upstream
+      <workItem from="1519303710260" duration="1111000" />
+=======
+      <workItem from="1519303710260" duration="1266000" />
+      <workItem from="1521159940959" duration="90000" />
+      <workItem from="1521160204380" duration="1442000" />
+>>>>>>> Stashed changes
+>>>>>>> 812e11463b93624f20750d5faa1a8ee46b461074
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="2747000" />
+=======
+<<<<<<< Updated upstream
+    <option name="totallyTimeSpent" value="1111000" />
+>>>>>>> 812e11463b93624f20750d5faa1a8ee46b461074
   </component>
   <component name="ToolWindowManager">
 <<<<<<< HEAD
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="false" />
+=======
+    <option name="totallyTimeSpent" value="2798000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+>>>>>>> Stashed changes
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24920969" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
